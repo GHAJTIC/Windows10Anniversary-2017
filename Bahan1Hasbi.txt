@@ -1,0 +1,129 @@
+Update Windows 10 Anniversary
+
+1. Perubahan pada Lock Screen:
+
+	Microsoft telah memanfaatkan umpan balik Insider dengan sebaik-baiknya untuk menambahkan banyak fitur baru yang diinginkan banyak user, 
+	seperti tombol kamera, kontrol musik pada layar kunci yang membuat kamu mudah untuk mengakses kamera atau kontrol putar musik tanpa harus membuka smartphone.
+
+	Tombol Kamera di Lock Screen: ketika ponsel terkunci, tombol Back pada bilah navigasi sekarang diganti dengan tombol kamera. 
+	Tekan dan tahan tombol ini untuk meluncurkan aplikasi kamera dari layar kunci / Lock Screen.
+
+2. Kontrol Media di Lock Screen: sementara kamu sedang mendengarkan musik,
+ 
+	kamu sekarang dapat mengendalikan musik (play, stop/pause, previous dan forward) persis dari layar kunci! Jika kamu menyalakan layar ponsel, 
+	kontrol media akan ditampilkan tertanam tepat di atas layar kunci.
+	Ingat! Tombol kamera bisa ada di lock screen (menggantikan posisi back) ini karena banyak permintaan dari para user.
+
+3. Perubahan pada Notifications & Action center:
+
+	Buruan deh kamu pergi ke Action Center & Notifications, dan lihat ! Sekarang bukan cuma ada perubahan & perpindahan posisi tombol tindakan cepat (Quick action),
+	tapi kamu juga pasti melihat ada banyak perbaikan dan peningkatan pada notifikasi. 
+	Kamu juga boleh mengontrol berapa banyak pemberitahuan untuk aplikasi tertentu yang muncul dalam pusat aksi dan juga mengubah prioritas pemberitahuan.
+
+	• Perubahan visual pada Action Center: Nantinya notifikasi di Action Center tidak lagi menampilkan ikon aplikasi yang berulang-ulang untuk 
+	  setiap notifikasi dan hanya dapat dilihat dalam satu header yang menggabungkan bersama-sama semua pemberitahuan secara spesifik 
+	  untuk tiap aplikasi. Perubahan ini memungkinkan penghematan ruang, sehingga lebih banyak ruang di Action Center untuk menampilkan lebih banyak konten.
+
+	• Perubahan Visual pada notifikasi: Tim pengembangan Windows 10 Microsoft telah membuat Action Center yang lebih kaya dengan dukungan 
+	  untuk notifikasi dengan layout yang lebih fleksibel mirip dengan kekayaan Ubin Dinamis (Live Tile). Notifikasi dengan gambar nantinya 
+	  akan ditampilkan lebih besar daripada sebelumnya. Notifikasi dapat memiliki “hero image” untuk konten dengan ukuran gambar yang lebih besar 
+	  untuk membuat konten dalam pop notification lebih “hidup”.
+
+	• Notifikasi prioritas di Action Center: Kamu dapat mengelola setelan notifikasi untuk tiap-tiap aplikasi dengan lari ? 
+	  ke pengaturan > sistem > pemberitahuan dan tindakan, lalu memprioritaskan pemberitahuan aplikasi yang mana yang paling penting bagi kamu. 
+	  Kamu pun dapat memprioritaskan pemberitahuan yang berada di salah satu dari 3 level: Atas, Tinggi, atau Normal. Kalau kamu pilih Atas, 
+	  maka notifikasi/pemberitahuan akan ditampilkan di bagian paling atas di Action Center. Sedangkan kalau kamu pilih Tinggi, 
+	  maka notifikasi/pemberitahuan akan ditampilkan di bagian atas prioritas Normal pada Action Center. Dan kalau kamu pilih Normal, 
+	  maka notifikasi/pemberitahuan akan ditampilkan di bawah prioritas Tinggi pada Action Center. Kamu juga dapat mengatur berapa banyak 
+	  jumlah notifikasi setiap aplikasi yang akan ditampilkan/terlihat di Action Center. Default sekarang adalah 3 notif per aplikasi. 
+	  Namun kamu bisa memilih hingga 20 (maksimal). Jika sebuah aplikasi memiliki lebih dari 3 pemberitahuan, cukup klik atau 	
+	  ketuk ikon ^ untuk meluaskan dan melihat semua pemberitahuan untuk aplikasi. Fitur ini juga sudah tersedia pada PC yang sudah dimulai di build 14316.
+
+4.Perubahan pada Cortana:
+
+	Cortana telah mengalami perubahan UI dan juga telah menambahkan beberapa fitur baru seperti “Pemberitahuan duplikasi”, 
+	peningkatan/penambahan bahasa dan lain-lain.
+
+
+	• Notifikasi Cortana di Action Center: Microsoft juga menambahkan wawasan baru dari Cortana untuk memastikan kamu tidak melewatkan 
+	  sesuatu yang penting, seperti konflik Rapat (rapat yang waktunya bentrok dengan acara penting lain) atau apa pun yang kamu butuhkan 
+	  untuk diingatkan. Bener-bener perhatian banget ‘kan si Mbak Cortana? ?
+
+
+	• Cortana sekarang juga akan selalu ngasih pemberitahuan atau notifikasi dan peringatan penting lainnya, termasuk peringatan “lowbet”/baterai lemah, 
+	  ada pesan baru dari layanan olah pesan, SMS atau media sosial serta panggilan tak terjawab. Pemberitahuan dan peringatan ini akan sinkron (otomatis nyambung)
+	  dari ponsel Windows 10 atau dari perangkat Android ke PC kamu, sehingga kamu tidak ketinggalan segala sesuatu yang penting sambil tetap fokus pada PC kamu.
+
+
+5. Perubahan pada UI Pengaturan / Settings:
+
+Buka menu Settings/Pengaturan kamu dan lihatlah! Pasti kamu melihat banyak perubahan UI dan sekarang kamu akan melihat ada banyak sub pengaturan dengan ikon masing-masing. Beberapa pengaturan telah pindah posisi juga loh, yang bertujuan untuk merampingkan seluruh pengalaman (user experience).
+
+• Halaman Pengaturan Bilah navigasi dan pengaturan getar: Microsoft telah membuat sebuah halaman untuk bilah navigasi di pengaturan > personalisasi > panel navigasi. Kamu sekarang dapat menggunakan halaman ini untuk mengonfigurasi preferensi untuk getaran dan ketuk dua kali panel navigasi untuk mematikan layar
+
+
+6. Perubahan pada Pengaturan OS Update & Restart:
+
+• Opsi untuk memilih jenis Ring untuk Insider telah berubah menjadi drop-down menu, bukan slider. Seperti yang terlihat dalam build Windows 10 PC. Dan aplikasi Windows Insider kini tidak lagi diperlukan. Kamu cukup pergi ke Pengaturan –> Pembaruan dan keamanan —> Program Windows Insider untuk memilih jenis Ring dan memeriksa ini.
+
+
+7.Jam aktif (Active hours):
+
+Kamu sekarang bisa menetapkan waktu, alias jam berapa kah kamu paling aktif menggunakan ponsel seperti pada PC dengan menyesuaikan jam aktif di bawah Pengaturan > Pembaruan & keamanan > Pembaruan telepon. Phone Update akan terhindar dari secara otomatis menginstal update selama jam aktif di perangkat kamu.
+
+• Pengaturan Phone Update telah diperbarui: Kamu sekarang dapat mengatur waktu di mana kamu paling aktif menggunakan ponsel seperti pada PC kamu dengan menyesuaikan / menggonta-ganti jam aktif di bawah Pengaturan > Pembaruan dan keamanan > Pembaruan telepon. Windows Update akan menghindari secara otomatis menginstal update selama jam aktif pada perangkat.
+
+• Ada opsi baru: Restart option : Opsi hidupkan ulang ini memungkinkan kamu menjadwalkan waktu restart ponsel kamu. Artinya meskipun kamu sudah mengaktifkan jam aktif, maka ponsel akan restart pada jam/waktu yang telah ditentukan oleh kamu.
+
+
+8. Perubahan pada Wi-Fi / Mobile Data:
+
+• Fitur Jaringan hotspot 2.0 sekarang tersedia!. Kamu perlu pergi ke Pengaturan –> Jaringan & nirkabel —> Wi-Fi —> Kelola.
+• Fitur baru (akhirnya) hadir: Opsi “hanya 3G” atau “hanya 4G” selain opsi “3G”. Inilah yang (katanya) banyak diminta dan dicari oleh banyak pengguna Windows Phone. Sekarang kamu bisa memilih kecepatan koneksi tertinggi di jaringan seluler antara 2G, 3G, hanya 3G atau 4G dan hanya 4G.
+
+9. Perubahan di Pengaturan baterai dan Penghemat baterai:
+
+Pengaturan baterai dan penghemat baterai juga telah diperbarui. Sekarang ada single entry point untuk semua baterai terkait pengaturan dalam pengaturan aplikasi-termasuk Battery Saver. Ini juga termasuk diperbarui penggunaan baterai rinci halaman sehingga sekarang kamu dapat mengelola pengaturan latar belakang per-app inline tanpa pergi ke halaman kedua. Ada juga pilihan baru: “Dikelola oleh Windows” baru!
+
+• Pengaturan Baterai dan Pengalaman dalam menghemat Baterai telah diperbarui: seperti yang terlihat dalam build PC minggu lalu, sekarang ada single entry point untuk semua pengaturan terkait baterai di dalam aplikasi Pengaturan –termasuk Battery Saver. Ini juga termasuk halaman “rincian penggunaan baterai berdasarkan aplikasi”yang telah diperbarui sehingga sekarang kamu dapat mengelola pengaturan latar belakang per-aplikasi inline tanpa pergi ke halaman kedua.
+
+• Kini kamu juga dapat menyesuaikan persentase kapan Battery saver akan aktif (yang mana default nya adalah 20%).
+
+10.Keyboard & mengetik:
+
+Monggo dibuka keyboard ponsel kamu lalu mengetiklah!, Moveable Keyboard dan keyboard mode satu tangan sekarang sudah tersedia pada perangkat 5-inch seperti Lumia 640 dan 830. Selain itu update AU ini juga membawa emoji & copy/cut-paste baru yang lebih baik.
+
+• Pembaruan emoji. Di build ini kita kedatangan beberapa emoji baru di ponsel, sebagian di antaranya yaitu beberapa Ninja Cat baru. Sebagai bagian dari pekerjaan ini, bagian emoji keyboard telah sedikit disusun ulang untuk lebih menyelaraskan dengan emoji baru yang tersedia. Susunan baru emotikon sekarang diatur sebagai berikut: Favorites, Smileys and Animals, People, Celebrations and Objects, Food and Plants, Transportation and Places, Symbols, and ASCII emoticons.
+• Copy/paste yang lebih baik: Microsoft telah membuat beberapa peningkatan dan perbaikan dalam Copy-paste (menyalin dan menempelkan) di ponsel. Ketika kamu mengetik di kotak edit pada halaman web, kamu sekarang akan dapat menggunakan tombol paste di atas keyboard. Juga, jika kamu memilih teks pada halaman web, tombol Salin akan segera muncul di dekat pemilihan.
+
+11. Peningkatan pada menu Olah Pesan (Messaging):
+
+Pembaruan dan peningkatan pada menu Pesan memungkinkan “swipe” untuk menghapus pesan dan juga beberapa opsi dengan menekan kiri.
+
+• Ini adalah salah satu fitur tidak pernah diberitakan yang memungkinkan seseorang untuk menghapus pesan teks hanya dengan hanya swipe kiri. Setelah kamu menghapus pesan kamu juga akan disuguhi pilihan untuk “membatalkan“.
+• Tidak hanya “swipe kiri untuk menghapus” yang telah ditambahkan ke menu pesan mulai di build 14327, ada satu fitur lain yang menarik. Kamu Tekan kiri ke salah satu pesan dan multi-select atau pilih semua dari pesan tersebut. Sekali lagi ini adalah fitur yang banyak digunakan yang hilang pada Windows 10 Mobile.
+
+12.Peningkatan pada menu Telepon/Microsoft Phone:
+
+Peningkatan di menu Telepon ini membawa audio routing, transfer panggilan, panggilan tak terjawab, indikator pesan suara menunggu dan kontak saran.
+
+• Audio Routing, sebuah opsi baru nan berguna. Di pengaturan telepon, kamu dapat memilih salah satu opsi antara otomatis, perangkat Bluetooth (jika tersambung) dan Speaker telepon ketika kamu nelepon atau ditelepon (membuat atau menerima panggilan). Juga kamu dapat beralih ke opsi “selama panggilan, aktifkan speaker saat saya menggerakkan telepon menjauh dari telinga saya”.
+
+• Indikator Missed Call (panggilan tak terjawab) dan Voicemail (pesan suara) menunggu yang berada di tab dalam aplikasi telepon. Asal kamu navigasi ke tab yang ada Missed Call dan Voicemail tersebut, maka indikator otomatis hilang.
+• Advanced Settings : memungkinkan kamu untuk mendapatkan tombol call transfer (panggilan konferensi) di UI call/panggilan.
+• Visual Voicemail untuk perangkat dual SIM seperti Lumia 950 XL dual SIM
+
+
+
+
+
+
+SUMBER :http://wincamp.org/apa-yang-baru-di-windows-10-mobile-anniversary-update/
+
+
+
+
+
+
+
+ 
