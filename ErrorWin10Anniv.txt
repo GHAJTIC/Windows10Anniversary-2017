@@ -1,0 +1,24 @@
+Masalah dalam windows 10 anniversary update:
+1. Error: 0x800F0922 (Couldn’t Connect to Windows Update Servers)
+Ini adalah salah satu kesalahan umum yang mungkin dihadapi saat men-download atau menginstal pembaruan Anniversary. Seperti yang Anda tahu dari deskripsi kesalahan, kesalahan ini disebabkan ketika sistem Windows Anda tidak dapat terhubung ke update server Windows.
+Untuk mengatasi cek kesalahan ini jika sistem anda berada di belakang VPN. Jika Anda menggunakan VPN, kemudian menonaktifkannya dan coba lagi. Juga, memeriksa apakah ISP Anda memblokir alamat IP tertentu yang pada gilirannya menyebabkan kesalahan ini.
+Jika tidak ada masalah jaringan, dan Anda masih melihat kesalahan ini, itu berarti sistem Anda mempunyai partisi lebih kecil dari ukuran yang dibutuhkan. Biasanya, partisi Sistem Reserved akan sekitar 100 sampai 200 MB. Untuk meningkatkan ukuran partisi, Anda dapat menggunakan pihak ketiga perangkat lunak manajemen partisi gratis.
+
+2. Error: 0x80200056 (Accidental Restart While Installing the Update)
+The Error: 0x80200056 akan muncul ketika ada restart disengaja atau sign-out selama prosedur pembaruan instalasi Anniversary. Meskipun ini mungkin tampak menakutkan, itu adalah tidak ada yang besar. Hanya restart sistem anda dan mencoba untuk menginstal pembaruan lagi. Tentu saja, merestart atau matikan sistem Windows Anda saat pembaruan sedang dalam proses  dapat merusak file sistem dan data lainnya.
+
+3. Error: Failure to Complete Anniversary Update Installation – Undoing Changes
+Kesalahan ini adalah umum ketika Anda mencoba untuk memperbarui laptop lama atau notebook. Meskipun tidak ada solusi resmi yang tersedia, banyak pengguna melaporkan bahwa mematikan, mencabut kabel listrik dan kemudian mencabut baterai selama beberapa menit memecahkan masalah, jadi anda bisa mencobanya.
+
+4. Error: Something Happened
+Anda mungkin mengalami kesalahan ini saat Anda mencoba untuk menginstal pembaruan menggunakan Media Creation Tool. Kesalahan ini begitu jelas bahwa itu membingungkan banyak pengguna. Tapi solusi untuk itu sangat sederhana. Yang harus Anda lakukan adalah menjalankan Media Creation dengan hak admin. Untuk melakukan itu hanya klik kanan pada Media Creation Tool executable, dan kemudian pilih opsi “Run as Administrator.”
+
+5. Error: 0x800F0923 (Software Compatibility or Driver Issues)
+Ini adalah kesalahan yang menyakitkan bagi beberapa pengguna Windows sebagai kesalahan ini disebabkan karena driver hardware atau software yang tidak kompatibel. Meskipun Anda dapat dengan mudah menghapus perangkat lunak yang tidak kompatibel, itu akan sulit untuk mencari driver yang menyebabkan masalah.
+Untuk menentukan masalah itu disarankan agar Anda menggunakan Media Creation Tool. Alat ini akan menampilkan semua driver dan software yang tidak kompatibel dengan update. Setelah Anda menemukan driver yang tidak kompatibel atau perangkat lunak, mencoba untuk men-download update dari situs produsen atau hanya menghapus mereka. Dalam kasus isu drive, Anda dapat menghapus atau memperbarui driver dari Device Manager.
+Setelah Anda selesai memperbarui atau menghapus perangkat lunak atau driver, mencoba untuk kembali memulai prosedur pembaruan menggunakan Media Creation Tool.
+
+6. Error: 0x80073712 (Damaged or Missing Installation Files)
+Kesalahan ini disebabkan ketika update atau instalasi file yang rusak atau hilang. Untuk mengatasi masalah tersebut menghapus update cache Windows atau redownload update menggunakan Media Creation Tool. Atau, mendownload Windows 10 Anniversary ISO, dan membuat media bootable sehingga Anda dapat menginstal update dari DVD atau USB.
+
+Source : http://forguides.com/kumpulan-masalah-dan-solusi-update-windows-10-anniversary/
