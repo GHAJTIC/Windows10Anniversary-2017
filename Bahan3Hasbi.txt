@@ -1,0 +1,49 @@
+Windows 10 Anniverssary
+
+Sumber : http://tekno.kompas.com/read/2016/08/19/17191727/yang.baru.di.windows.10.setelah.setahun.dirilis
+
+1.Windows Hello kini tersinkronisasi dengan beragam aplikasi di Windows 10.
+
+Sebelumnya, Windows Hello hanya memungkinkan pengguna membuka laptop tanpa ribet dengan password. Pengguna bisa memanfaatkan fitur pengenal wajah (face recognation) atau pemindai sidik jari (figerprint scanner). Tentu saja perlu dipastikan bahwa perangkat yang digunakan sudah mendukung dua fitur itu.
+
+Nah, pada versi upgrade, Windows Hello juga bisa digunakan untuk sign in ke aplikasi-aplikasi lain seperti layanan penyimpanan cloud One Drive dan Dropbox. Hal ini untuk menjamin keamanan akses pengguna tanpa harus menghafal password.
+
+
+2.Edge bisa menyimpan artikel atau situs penting tanpa menaruhnya di Bookmark atau Favorite.
+
+Selama ini, artikel-artikel penting yang kita temukan di internet via peramban biasanya disimpan di Bookmark atau ditandai Favorite. Microsoft menganggap hal itu masih kurang efektif.
+
+Selain itu, daftar Bookmark yang terlalu banyak kerap membikin pusing pengguna. Windows 10 versi upgrade memberikan solusi dengan menghadirkan fitur penempelan tab.
+
+Pengguna bisa menempelkan alamat situs menarik atau tautan artikel menarik di tab. Jika pengguna menutup Edge, mematikan laptop, lalu menghidupkan kembali dan membuka Edge lagi, tab yang ditempel tak akan lari ke mana-mana.
+
+
+3.fitur keamanan Windows Defender ditemani dengan layar pintar atau smartscreen.
+
+Sebelumnya, Windows Defender menjadi andalan tunggal untuk menjamin keamanan maya pengguna. Kini fitur itu dipasangkan dengan smartscreen yang fungsinya seperti filter konten negatif.
+
+Jika pengguna masuk ke situs berbahaya, smartscreen akan mengingatkan pengguna dan memblokir otomatis akses ke situs tersebut. Menurut Linda fitur ini sangat penting mengingat tiap hari ada sekitar 300 virus baru yang teridentifikasi.
+
+Indonesia sendiri menjadi negara kedua di Asia Pasifik yang memiliki indeks malware terbesar menurut laporan Microsoft. Hal ini tak lepas dari maraknya penggunaan Windows bajakan.
+
+"Kami selalu edukasi pengguna untuk pakai asli. Walaupun agak mahal, tapi investasi keamanannya jangka panjang. Smartscreen ini akan selalu kami perbarui supaya ampuh menghadang berbagai virus baru," kata Linda.
+
+
+4.Windows Ink Workspace untuk pekerja kreatif.
+
+Fitur baru pada versi upgrade Windows 10 ini memiliki tiga fitur turunan: Sticky Notes, Sketchpad, dan Screen Sketch. Ketiganya sebenarnya tak terdengar baru, tapi lebih ditingkatkan performanya.
+
+Sticky Notes pada Windows 10 teranyar bisa terhubung dengan mesin pencari Bing. Saat menuliskan memo penting, pengguna bisa sekaligus mencari informasi terkait di antarmuka Sticky Notes.
+
+Sketchpad dirancang untuk para ilustrator dan desainer dalam berkarya secara mobile di mana pun dan kapan pun. Terakhir, Screen Sketch digunakan untuk memindai halaman tertentu, memberi keterangan, dan membaginya langsung ke orang lain via e-mail, Facebook, atau aplikasi lain.
+
+Mekanisme kerja Screen Sketch serupa dengan pemindaian pada aplikasi Line dan aplikasi-aplikasi mobile lainnya.
+
+Diketahui, Windows 10 sudah diunduh sekitar 350 juta pengguna global dalam setahun pertamanya. Linda enggan mengumbar angka spesifik di Indonesia.
+
+"Yang pasti adopsi di Indonesia tinggi sekali, lebih tinggi dibandingkan sistem operasi lain yang pernah kami keluarkan," ia mengklaim.
+
+Versi upgrade diluncurkan secara otomatis dan bertahap mulai 2 Agustus lalu. Jika tak sabar mendapatkannya, Anda bisa mengunduhnya di tautan berikut ini.
+
+
+

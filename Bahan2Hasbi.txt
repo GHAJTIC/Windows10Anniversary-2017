@@ -1,0 +1,20 @@
+Fitur Windows 10 Anniversary :
+
+SUMBER :https://inet.detik.com/iphone/3261443/ini-fitur-baru-windows-10-anniversary-update
+
+1. Security
+Keamanan menjadi topik penting bagi perangkat PC, untungnya Microsoft menyadari hal itu. Karenanya dalam pembaruan ini mereka membawa fitur Windows Hello.
+
+Fitur ini memungkinkan kita dapat membuka lockscreen dengan pemindaian wajah. Tapi tidak terbatas di situ, Windows Hello dapat digunakan untuk login di browser Edge, Dropbox dan lain-lain.
+
+
+2. Cortana
+Kemampuan Cortana kian ditingkatkan. Asisten digital ini kini dapat digunakan pada mode lockscreen. Pengguna dapat menanyakan sesuatu, memintanya memainkan musik, membuat pengingat dan sebagainya tanpa perlu melaukannya di layar desktop.
+
+Namun yang paling menarik adalah, Cortana dapat berpindah antar perangkat dengan mulus. Di mana informasi terkait navigasi atau notifikasi dapat dikirimkan dari PC ke ponsel berbasis Windows, Android dan iOS.
+
+
+3. Ink
+Salah satu fitur anyar yang akan dibawa Windows 10 Anniversary. Kita akan menemui sebuah ikon pensil di taskbar. Jika ditekan akan muncul hub yang menampilkan banyak fungsi untuk berinterkasi dengan stylus.
+
+Adapun integrasi yang ditawarkan Office, Cortana, Edge dan Adobe. Kita dapat membuat catatan, sektas pada screenshot, mengambar dan lainnya. 
