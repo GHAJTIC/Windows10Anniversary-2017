@@ -1,0 +1,8 @@
+1. kalo mau buat class dalam jade kayaknya
+
+section(nama-class)
+
+2. Cara hapus file/folder dari repositori lokal
+- git rm -r Masukkan Nama File/Folder
+- git commit -m "Ketikkan comment disini"
+- git push -u origin master
