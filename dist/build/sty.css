@@ -3,7 +3,6 @@ body{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 0% 65%;
-	ba
 }
 
 h1{
@@ -37,5 +36,6 @@ section h2{
 
 section h3 {
 	color: #000000;
+    text-align: center;
 }
 
