@@ -1,0 +1,40 @@
+Microsoft telah resmi merilis Windows 10 AU Redstone 1 yang membaw banyak fitur baru serta peningkatan di berbagai sisi software dan hardware. Dan dengan dihadirkan Windows 10 AU ini mungkin banyak kau yang sudah atau belum mencoba tidak banyak tau fitur apa saja yang hadir. Berikut Wincamp akan mengulas 19 fitur top yang hadir di Windows 10 versi kami :
+1. Start Menu
+Start Menu di Windows 10 Anniversary Update ini mendapat beberapa perbaikan di antaranya desain yang lebih halus, mudahnya mengakses aplikasi, mudahnya meninjau akun dan masih banyak lagi. Microsoft memang sengaja sedikit memprioritaskan Start Menu di Windows 10 karena banyaknya feedback.
+2. Full-start Screen
+Nah inilah hasil dari feedback yang menginginkan Windows 10 tidak hanya dapat digunakan sebagai PC tapi juga sebagai tablet. Mode Tablet jika kamu aktifkan akan langsung membentuk layaknya sebuah tablet, untuk mengatur Mode ini kamu bisa pergi ke Action Center dan pilih Tablet Mode.
+3. Dark Theme
+Hadir terlebih dahulu di Windows 10 Mobile dan akhirnya Microsoft juga membawa dark theme ini ke Windows 10 PC. Semua itu berkat feedback dari pengguna yang menginginkan tampilah gelap layaknya di Windows 10 Mobile.
+4. New Taskbar Options
+Taskbar yang dulu hanya memiliki sedikit akses ketika klik kanan, kini di Windows 10 Microsoft memperbanyak akses untuk memudahkan pengguna nya. Kamu bisa dengan cepat mengaktifkan Cortana di Taskbar, pergi ke task manager dan masih banyak lagi.
+5. Perbaikan Notifikasi
+Mungkin ini lah salah satu yang sangat saya kagumi di Windows 10 AU, notifikasi yang hadir sangat-sangat membuat saya kagum. Integrasi Mobile dan PC seperti yang dijanjikan Microsoft kini sudah terlaksana dan kamu bisa melihat notifikasi dari ponsel hadir di PC juga. Namun ini hanya tersedia jika kamu mempunyai email akun yang sama antara PC dan juga Mobile.
+6. Peningkatan pengaturan app
+Pengaturan app mungkin tidak banyak berubah, namun di Windows 10 AU Microsoft memberikan ikon untuk setiap kategori. Serta penambahan opsi seperti ‘Apps forwebsite’ yang saat ini belum bekerja dengan baik.
+7. Integrasi Kalender
+Microsoft kini benar-benar membuat pengguna nya terlihat mudah, dengan hadirnya kalender integrasi ini kamu hanya perlu membuka tanggal dari taskbar untuk melihat acara apa hari ini.
+8. Lencana Pemberitahuan
+Di Windows 10 AU Microsoft terus memperbaiki dan meningkatkan pemberitahuan dari Ponsel untuk hadir di Windows 10 PC. Dan lencana pemberitahuan ini adalah salah satunya, kini di Windows 10 AU ini akan memberikan jumlah pemberitahuan Facebook, E-mail dan masih banyak lagi.
+9. Windows Ink
+Salah satu fitur yang hadir di Windows 10 AU memungkinkan pelukis atau kamu pun bisa dengan mudah menggambar di atas PC atau Tablet Windows 10. Di Windows 10 AU Microsoft terus meningkatkan kemampuan Windows Ink salah satunya adalah memungkinkan kamu untuk menulis dan menggambar menggunakan jari atau mouse.
+10. Perbaikan Microsoft Edge
+Microsoft terus memperbaiki dan meningkatkan browser Windows 10 Microsoft Edge yang kini di Windows 10 AU memiliki perubahan yang cukup signifikat. Salah satunya adalah kamu sekarang sudah bisa mengatur penyimpanan hasil download dari Microsoft Edge.
+11. Ekstensi Edge
+Salah satu yang paling diminta pengguna, Ekstensi yang kini hadir di Windows 10 AU sudah dapat bekerja dengan baik. Kamu dapat mendownload ekstensi langsung dari Windows Store, beberapa ekstensi sudah mulai banyak hadir salah satunya adalah Ad-block.
+12. Windows Defender
+Pengamanan di Windows 10 memang menjadi prioritas utama Microsoft dan di Windows 10 AU ini build-in Windows Defender menjadi lebih baik dalam menangani segala macam malware serta peningkatan ketika melakukan scaning.
+13. Fitur Baru Untuk Aksebelitas
+Tool text-to-speech di Windows 10 AU mempunyai kemampuan yang lebih baik dan kecepatan 2 kali lipat dari sebelumnya. Ini akan mempermudah kamu untuk mencoba mengaktifkan fitur narator.
+14. Peningkatan Quick Action
+Shortcuts di dibagian bawah action center kini dapat dengan mudah kamu pindah-pindah kan dengan cara drag. Fitur ini sudah hadir terlebih dahulu di Windows 10 Mobile dan sekarang Microsoft juga menghadirkan nya di Windows 10 PC.
+15. Linux Command Line
+Pengumuman  mengejutkan yang Microsoft hadirkan di Build 2016 kemarin adalah akan hadirnya Linux Command Line di Windows 10 AU atau biasa di sebut bash. Ini membuktikan bahwa Microsoft akan sedikit terbuka dan membuka ruang untuk pengguna Linux beralih ke Windows 10.
+16. Lebih Banyak Kontrol Update
+Microsoft telah memberi hak untuk setiap pengguna nya di Windows 10 ini dan salah satunya adalah sebuah fitur ‘Active Hours’ yang memungkinkan kamu dapat dengan mudah mengatur kapan Windows 10 kamu bisa melakukan update. Fitur update di Windows 10 memang terkadang membuat pengguna risau karena saati itu Windows akan me-restart secara otmatis dan kini fitur ‘Active Hours’ akan membuat kamu terlihat mudah mengatur kapan waktu proses Update dan Install.
+17. Background Aplikasi
+Microsoft kini telah memperbaiki daya tahan baterai di Windows 10 AU dan salah satunya adalah mencegah aplikasi berjalan di latar belakang. Ini memungkinkan kamu untuk menghemat pemakainan baterai laptop di Windows 10.
+18. Peningkatan Cortana
+Asisten digital Windows 10 yang kini memiliki sejuta fungsi di Windows 10 AU salah satu nya adalah kini Cortana tersedia dalam layar kunci. Kamu bisa membuka PC kamu hanya dengan perintah Cortana, pemberitahuan dari Cortana dan masih banyak lagi yang dapat kamu temui di Windows 10 AU dengan Cortana.
+19. Windows Hello
+Microsoft menjadi pelopor akan hadir Windows Hello di perangkat Windows 10, setelah sebelumnya fitur ini hanya berfungsi sebagai pembuka kunci saat ingin masuk kehalaman desktop kini fungsi itu bisa dilakukan untuk membuka aplikasi atau halaman web dengan memindai sidik jari atau iris scanner melalui Windows Hello.
+
