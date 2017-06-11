@@ -5,7 +5,7 @@
 
 // Require Node modules in the browser thanks to Browserify: http://browserify.org
 var bespoke = require('bespoke'),
-  cube = require('bespoke-theme-carousel'),
+  cube = require('bespoke-theme-build-wars'),
   keys = require('bespoke-keys'),
   touch = require('bespoke-touch'),
   bullets = require('bespoke-bullets'),
